@@ -4,14 +4,22 @@
         <title>Apache Linkis Blog</title>
         <link>https://linkis.apache.org/blog</link>
         <description>Apache Linkis Blog</description>
-        <lastBuildDate>Tue, 21 Dec 2021 09:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[todo]]></title>
-            <link>https://linkis.apache.org/blog/how-to-used</link>
-            <guid>todo</guid>
-            <pubDate>Tue, 21 Dec 2021 09:46:08 GMT</pubDate>
+            <title><![CDATA[Linkis Deployment Troubleshooting]]></title>
+            <link>https://linkis.apache.org/blog/2022/02/21/linkis-deploy</link>
+            <guid>Linkis Deployment Troubleshooting</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Linkis deployment instructions and precautions]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How to Write a Blog]]></title>
+            <link>https://linkis.apache.org/blog/2022/02/08/how-to-user-blog</link>
+            <guid>How to Write a Blog</guid>
+            <pubDate>Tue, 08 Feb 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[This article mainly guides you how to publish blog posts on the Linkis official website. You are welcome to submit blog post documents about Apache Linkis, including but not limited to Linkis installation/source code analysis/architecture/experience sharing.]]></description>
         </item>
     </channel>
 </rss>
